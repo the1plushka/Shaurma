@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Шаурма</string>
+    <string name="VIP">VIP дизайн из нулевых</string>
+    <string name="text_see_you">До следующей встречи!!!!</string>
+    <string name="luckyNumber">узнать число дня</string>
+    <string name="beauty_foto">Красивое фото шаурмы</string>
+    <string name="buyShaurma">Купить шаурму</string>
+</resources>

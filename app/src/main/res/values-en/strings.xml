@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shawarma</string>
+    <string name="VIP">VIP design from \'00</string>
+    <string name="text_see_you">See you next time!!!!</string>
+    <string name="luckyNumber">Today\'s lucky numder</string>
+    <string name="beauty_foto">Shawarma\'s beauty photo</string>
+    <string name="buyShaurma">Buy shawarma</string>
+</resources>
